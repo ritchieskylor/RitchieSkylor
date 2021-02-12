@@ -30,6 +30,8 @@ The imaging technology used to capture the pieces of art is worth noting. Each i
 
 As stated when opening the website on a mobile device, the project is not intended for devices smaller than 1024 pixels (i.e., iPad size). This message does not go away when navigating the page, thus eliminating readability of the top of the screen. While some features still function, the layout of the site becomes difficult to read and the images appear hardly visible. The creators may find it beneficial to design a more user friendly interface for mobile devices as they become increasingly abundant and relied on in society, even if it is not able to encompass all that an enlarged view can.
 
+![iPhoneView](https://ritchieskylor.github.io/RitchieSkylor/images/iPhoneView.jpg)
+
 Finally, and most helpful, the website includes a link to a video showing viewers how to best interact with the site. While this is very helpful, it is located at the very end of the book in a small font. To promote use, it would be best if the link was displayed near the beginning of the book and highlighted in some way.
 
 Overall, _Monet Paintings and Drawings at the Art Institute of Chicago_ is effective and well done. While there are always improvements that could be made to provide a more user-friendly, efficient interface, the site displays and informs Claude Monet’s art beautifully.
