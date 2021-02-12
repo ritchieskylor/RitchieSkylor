@@ -1,5 +1,3 @@
-# Review One Blog
-
 **Project:**
 Monet Paintings and Drawings at the Art Institute of Chicago
 
