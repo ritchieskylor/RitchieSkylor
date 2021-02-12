@@ -26,6 +26,8 @@ _Monet Paintings and Drawings at the Art Institute of Chicago_ does a proficient
 
 The imaging technology used to capture the pieces of art is worth noting. Each image allows the user to enter a full screen mode and zoom in to interact with the individual sections of the painting. This allows each unique brush stroke and pencil mark to be amplified for close examination. There is also a feature which allows the user to see which part of the piece they are zoomed in on while being zoomed in. To exit the enlarged view, there is a refresh button to return to the original view of the image. This viewing technology is extremely useful and effective for close analysis.
 
+(https://ritchieskylor.github.io/RitchieSkylor/images/MonetPainting.png)
+
 As stated when opening the website on a mobile device, the project is not intended for devices smaller than 1024 pixels (i.e., iPad size). This message does not go away when navigating the page, thus eliminating readability of the top of the screen. While some features still function, the layout of the site becomes difficult to read and the images appear hardly visible. The creators may find it beneficial to design a more user friendly interface for mobile devices as they become increasingly abundant and relied on in society, even if it is not able to encompass all that an enlarged view can.
 
 Finally, and most helpful, the website includes a link to a video showing viewers how to best interact with the site. While this is very helpful, it is located at the very end of the book in a small font. To promote use, it would be best if the link was displayed near the beginning of the book and highlighted in some way.
