@@ -22,7 +22,7 @@ Created under project director Gloria Groom, the site uses tools such as Chicago
 
 ## **Findings**
 
-_Monet Paintings and Drawings_ does a proficient job of merging technology and Claude Monet’s famous pieces. As stated in the Project Overview, the format satisfies a wide range of users, both scholars and ordinary museum visitors. The website layout resembles that of an interactive book. Each page displays a piece of art which is then discussed in depth. To the reader’s benefit, the descriptions contain various headings and subheadings to easily navigate the passage. Below the images, there is access to a pop-up bar of footnotes, figures, and a glossary for any unfamiliar words which aids usability. 
+_Monet Paintings and Drawings_ does a proficient job of merging technology and Claude Monet’s famous pieces. As stated in the _Project Overview_, the format satisfies a wide range of users, both scholars and ordinary museum visitors. The website layout resembles that of an interactive book. Each page displays a piece of art which is then discussed in depth. To the reader’s benefit, the descriptions contain various headings and subheadings to easily navigate the passage. Below the images, there is access to a pop-up bar of footnotes, figures, and a glossary for any unfamiliar words which aids usability. 
 
 The _Table of Contents_ tab allows for navigation throughout the interactive book. While it is helpful, following the selection of a section in the book, the tab does not go away and often covers art or text. The user has to exit the tab to make it disappear which is often a hassle. This could be fixed to allow for easier usage.
 
