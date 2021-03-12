@@ -35,6 +35,6 @@ Upon selecting a video, the site provides a short summary discussing information
 
 As far as accessibility extends, Jacob’s Pillow Dance Interactive operates just as well on a mobile device which allows usage for a wide range of viewers. I almost would just as well prefer using the site on my mobile device.
 
-![mobileview](https://ritchieskylor.github.io/RitchieSkylor/images/mobileview.png)
+![mobileview](https://ritchieskylor.github.io/RitchieSkylor/images/mobileview.PNG)
 
 Overall, Jacob’s Pillow Dance Interactive is a very visually appealing, informative digital humanities project. While there is always growth and advancements that can be made, the site displays and informs Jacob Pillow’s theatre beautifully.
