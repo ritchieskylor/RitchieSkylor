@@ -23,12 +23,18 @@ Jacob’s Pillow Dance Interactive (JPDI) does a proficient job of merging film 
 
 JPDI made efficient use of headings and subheadings in the main archived collection of dance videos. While greatly wide-ranging, the collection allows for a narrow search as it permits the viewer to sort videos by era, genre, artist, or playlist. Under these main headings are subheadings to which you can further attain a detailed search.
 
+![wholecollection](https://ritchieskylor.github.io/RitchieSkylor/images/wholecollection.png)
+
 Despite the benefits of the many ways to search, the site only allows one sort option at a time. For example, it would not be possible to sort by music from both the 50’s and 60’s simultaneously. To promote usability, it would be helpful for the site to allow a more advanced search where the user can select multiple categories.
 
 Through browsing the archive, each video link is accompanied by a picture icon to give the viewer a sneak peak of what the dance may look like. I think this is a neat feature that could even be furthered. To advance this, the site could program it to where if you hover over the picture, a preview of the video will start playing. This could help users to select the appropriate video they are looking for without having to click on each individual dance video, since there is such a vast collection.
 
 Upon selecting a video, the site provides a short summary discussing information about the dance and dancer. The layout of the site allows the viewer to watch the dance while being able to read the summary on the side of the screen, or it gives the option to collapse the text during the video. This feature is helpful as it allows the user to jump back and forth.
 
+![individualvideo](https://ritchieskylor.github.io/RitchieSkylor/images/individualvideo.png)
+
 As far as accessibility extends, Jacob’s Pillow Dance Interactive operates just as well on a mobile device which allows usage for a wide range of viewers. I almost would just as well prefer using the site on my mobile device.
+
+![mobileview](https://ritchieskylor.github.io/RitchieSkylor/images/mobileview.png)
 
 Overall, Jacob’s Pillow Dance Interactive is a very visually appealing, informative digital humanities project. While there is always growth and advancements that can be made, the site displays and informs Jacob Pillow’s theatre beautifully.
