@@ -5,6 +5,8 @@ My grant proposal project explores the correlation between religion and the COVI
 
 As one who practices religion, I find the project interesting to seek how faith has increased or decreased within the last year. Reflecting on myself through the pandemic, I know I have turned towards more religious practices and am curious to see if that looks the same for others. Additionally, I have interest in the artistic side of Bible journaling and expressing oneself through images on social media, so the project really ties together components I value.
 
+![biblejournaling](https://ritchieskylor.github.io/RitchieSkylor/images/biblejournaling.jpg)
+
 Because Dr. Stover helped me to construct the idea for my project, it has remained relatively consistent from when I initially wrote the abstract. While I have found many projects and sources that explore Bible journaling, social media posts, and the COVID-19 pandemic, I have found no true combination of these entities. My project allows for an innovative twist to investigate the correlations and causations between each of these topics.
 
 The largest obstacle I ran into in the grant proposal writing process was determining which tools and resources I should use to best construct my project. Because I do not have hardly any prior experience with the suggested list of tools, I had a difficult time distinguishing, for example, one mapping tool from another. This added an extended amount of research to my plate for exploring each of the options and selecting which tool seemed to best fit.
