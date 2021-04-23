@@ -1,4 +1,7 @@
-# Grant Process/Reflection Blog
+**Skylor Ritchie
+
+04-23-2021
+
 ## Grant Proposal Reflection:
 
 My grant proposal project explores the correlation between religion and the COVID-19 pandemic within the last year. This is done through seeking geotagging information from posts of Bible journaling on Instagram and comparing the locations of these posts to COVID hotspots in the United States. In comparing these maps, it will be evident whether people undergoing elevated stresses of the virus sought to turn to religion in the time of hardship.
