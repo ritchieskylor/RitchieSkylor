@@ -2,7 +2,7 @@ Skylor Ritchie
 
 04-23-2021
 
-### Grant Proposal Reflection:
+## Grant Proposal Reflection:
 
 My grant proposal project explores the correlation between religion and the COVID-19 pandemic within the last year. This is done through seeking geotagging information from posts of Bible journaling on Instagram and comparing the locations of these posts to COVID hotspots in the United States. In comparing these maps, it will be evident whether people undergoing elevated stresses of the virus sought religion in the time of hardship.
 
@@ -18,7 +18,7 @@ Through the grant writing process, I have learned a great deal. When Dr. Stover 
 
 ![specifictweet](https://ritchieskylor.github.io/RitchieSkylor/images/specifictopictweet.png)
 
-### Digital Humanities Class Reflection:
+## Digital Humanities Class Reflection:
 
 To me, Digital Humanities is the combination of digital technology and various disciplines in the humanities. DH projects typically combine scholarly research with some sort of interactive component. I had no prior knowledge of Digital Humanities or frankly that it even existed, so my definition and understanding of the field has grown exponentially throughout this class.
 
