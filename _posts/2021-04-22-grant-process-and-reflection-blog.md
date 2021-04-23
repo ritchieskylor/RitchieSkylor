@@ -13,6 +13,8 @@ The largest obstacle I ran into in the grant proposal writing process was determ
 
 Through the grant writing process, I have learned a great deal. When Dr. Stover initially began going over the requirements for the assignment, I had no prior knowledge of a grant proposal or what it should entail. I have seen, in creating the project, the importance of choosing a specified idea to explore. With combining three vastly different components in my project, I have experienced firsthand the amount of lengthy research required in each field to fully understand and support the project and fuel the environmental scan.
 
+![specifictweet](https://ritchieskylor.github.io/RitchieSkylor/images/specifictopictweet.png)
+
 ## Digital Humanities Class Reflection:
 
 To me, Digital Humanities is the combination of digital technology and various disciplines in the humanities. DH projects typically combine scholarly research with some sort of interactive component. I had no prior knowledge of Digital Humanities or frankly that it even existed, so my definition and understanding of the field has grown exponentially throughout this class.
